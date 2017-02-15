@@ -2,7 +2,7 @@ var React = require('react');
 
 var WeatherList = ({city, temp}) => {
   return (
-      <p>{city} - {temp}</p>
+      <p className="text-center">{city} - {temp}</p>
   )
 };
 

@@ -14,7 +14,7 @@ var Example = (props) => {
         </li>
         <li>
           <Link to='/?city=Bankgog'>
-            Bankgog
+            Bangkok
           </Link>
         </li>
         <li>
